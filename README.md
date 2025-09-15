@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFI6sgPMkIFFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703941913829?e=1741219200&v=beta&t=BSkML_Po6Adje1Z_9rbxjZ5Y-KwJPyh9MTNSwQG-I6c)](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFI6sgPMkIFFQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1703941913829?e=2147483647&v=beta&t=oYdBv5heE2ufOXQTlm2iM8aYZHpDq_M0xVTnBi00yng)](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
 <h1 align="center">Hi 👋, I'm Muhammad Shan</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
